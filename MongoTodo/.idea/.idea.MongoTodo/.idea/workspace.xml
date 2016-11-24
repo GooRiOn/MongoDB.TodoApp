@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42fe37b2-f2dd-4b38-ab93-ca4fb7dd2c4b" name="Default" comment="" />
+    <ignored path="MongoTodo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MongoTodo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../project.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding>
+                <marker date="1480001698000" expanded="true" signature="20:846" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="51:109" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="861:945" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="964:1076" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="987:1072" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="1006:1066" ph="[...]" />
+                <marker date="1480001698000" expanded="true" signature="1097:1169" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="1192:1260" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="1218:1256" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="1283:1394" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="1300:1390" ph="[...]" />
+                <marker date="1480001698000" expanded="true" signature="1410:1539" ph="{...}" />
+                <marker date="1480001698000" expanded="true" signature="1431:1535" ph="[...]" />
+                <marker date="1480001698000" expanded="true" signature="1555:1596" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <marker date="1480002599000" expanded="true" signature="6:346" ph="..." />
+                <marker date="1480002599000" expanded="true" signature="367:1681" ph="{...}" />
+                <marker date="1480002599000" expanded="true" signature="394:1679" ph="{...}" />
+                <marker date="1480002599000" expanded="true" signature="448:835" ph="{...}" />
+                <marker date="1480002599000" expanded="true" signature="1062:1295" ph="{...}" />
+                <marker date="1480002599000" expanded="true" signature="1513:1673" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <marker date="1480001573000" expanded="true" signature="6:227" ph="..." />
+                <marker date="1480001573000" expanded="true" signature="248:845" ph="{...}" />
+                <marker date="1480001573000" expanded="true" signature="275:843" ph="{...}" />
+                <marker date="1480001573000" expanded="true" signature="328:837" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Registration.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/DependencyInjection/Registration.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1480000503000" expanded="true" signature="105:289" ph="{...}" />
+                <marker date="1480000503000" expanded="true" signature="196:283" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TodoContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/TodoContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1480003209000" expanded="true" signature="6:56" ph="..." />
+                <marker date="1480003209000" expanded="true" signature="88:449" ph="{...}" />
+                <marker date="1480003209000" expanded="true" signature="125:447" ph="{...}" />
+                <marker date="1480003209000" expanded="true" signature="304:441" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Card.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Models/Card.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1480003030000" expanded="true" signature="6:92" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Models/Task.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <marker date="1480003000000" expanded="true" signature="52:228" ph="{...}" />
+                <marker date="1480003000000" expanded="true" signature="76:226" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Registration.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../DependencyInjection/Registration.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <marker date="1480002521000" expanded="true" signature="6:60" ph="..." />
+                <marker date="1480002521000" expanded="true" signature="225:294" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/project.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <marker date="1480002521000" expanded="true" signature="44:77" ph="{...}" />
+                <marker date="1480002521000" expanded="true" signature="97:201" ph="{...}" />
+                <marker date="1480002521000" expanded="true" signature="219:283" ph="{...}" />
+                <marker date="1480002521000" expanded="true" signature="243:279" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../project.json" />
+        <option value="$PROJECT_DIR$/../../DependencyInjection/Registration.cs" />
+        <option value="$PROJECT_DIR$/../../Startup.cs" />
+        <option value="$PROJECT_DIR$/../../../MongoTodo.DataAccess/Models/Task.cs" />
+        <option value="$PROJECT_DIR$/../../../MongoTodo.DataAccess/Models/Card.cs" />
+        <option value="$PROJECT_DIR$/../../../MongoTodo.DataAccess/TodoContext.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoTodo (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoTodo (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoTodo" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../MongoTodo.DataAccess/MongoTodo.DataAccess.xproj" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="false" name="MongoTodo" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../MongoTodo.xproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../bin/Debug/netcoreapp1.0/MongoTodo.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="USE_MONO" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../MongoTodo.xproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../bin/Debug/netcoreapp1.0/MongoTodo.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="USE_MONO" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.MongoTodo" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.MongoTodo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1105" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <marker date="1480001698000" expanded="true" signature="20:846" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="51:109" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="861:945" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="964:1076" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="987:1072" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1006:1066" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1097:1169" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1192:1260" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1218:1256" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1283:1394" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1300:1390" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1410:1539" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1431:1535" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1555:1596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1480002599000" expanded="true" signature="6:346" ph="..." />
+            <marker date="1480002599000" expanded="true" signature="367:1681" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="394:1679" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="448:835" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="1062:1295" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="1513:1673" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <marker date="1480001573000" expanded="true" signature="6:227" ph="..." />
+            <marker date="1480001573000" expanded="true" signature="248:845" ph="{...}" />
+            <marker date="1480001573000" expanded="true" signature="275:843" ph="{...}" />
+            <marker date="1480001573000" expanded="true" signature="328:837" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/DependencyInjection/Registration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480000503000" expanded="true" signature="105:289" ph="{...}" />
+            <marker date="1480000503000" expanded="true" signature="196:283" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/TodoContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1480003209000" expanded="true" signature="6:56" ph="..." />
+            <marker date="1480003209000" expanded="true" signature="88:449" ph="{...}" />
+            <marker date="1480003209000" expanded="true" signature="125:447" ph="{...}" />
+            <marker date="1480003209000" expanded="true" signature="304:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Models/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480003030000" expanded="true" signature="6:92" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Models/Task.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480003000000" expanded="true" signature="52:228" ph="{...}" />
+            <marker date="1480003000000" expanded="true" signature="76:226" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DependencyInjection/Registration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <marker date="1480002521000" expanded="true" signature="6:60" ph="..." />
+            <marker date="1480002521000" expanded="true" signature="225:294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1480002521000" expanded="true" signature="44:77" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="97:201" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="219:283" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="243:279" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <marker date="1480001698000" expanded="true" signature="20:846" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="51:109" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="861:945" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="964:1076" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="987:1072" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1006:1066" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1097:1169" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1192:1260" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1218:1256" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1283:1394" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1300:1390" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1410:1539" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1431:1535" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1555:1596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <marker date="1480002599000" expanded="true" signature="6:346" ph="..." />
+            <marker date="1480002599000" expanded="true" signature="367:1681" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="394:1679" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="448:835" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="1062:1295" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="1513:1673" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480001573000" expanded="true" signature="6:227" ph="..." />
+            <marker date="1480001573000" expanded="true" signature="248:845" ph="{...}" />
+            <marker date="1480001573000" expanded="true" signature="275:843" ph="{...}" />
+            <marker date="1480001573000" expanded="true" signature="328:837" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DependencyInjection/Registration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <marker date="1480002521000" expanded="true" signature="6:60" ph="..." />
+            <marker date="1480002521000" expanded="true" signature="225:294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1480002521000" expanded="true" signature="44:77" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="97:201" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="219:283" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="243:279" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1480002521000" expanded="true" signature="44:77" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="97:201" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="219:283" ph="{...}" />
+            <marker date="1480002521000" expanded="true" signature="243:279" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <marker date="1480001698000" expanded="true" signature="20:846" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="51:109" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="861:945" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="964:1076" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="987:1072" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1006:1066" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1097:1169" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1192:1260" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1218:1256" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1283:1394" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1300:1390" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1410:1539" ph="{...}" />
+            <marker date="1480001698000" expanded="true" signature="1431:1535" ph="[...]" />
+            <marker date="1480001698000" expanded="true" signature="1555:1596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DependencyInjection/Registration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <marker date="1480002521000" expanded="true" signature="6:60" ph="..." />
+            <marker date="1480002521000" expanded="true" signature="225:294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <marker date="1480001573000" expanded="true" signature="6:227" ph="..." />
+            <marker date="1480001573000" expanded="true" signature="248:845" ph="{...}" />
+            <marker date="1480001573000" expanded="true" signature="275:843" ph="{...}" />
+            <marker date="1480001573000" expanded="true" signature="328:837" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/TodoContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1480003209000" expanded="true" signature="6:56" ph="..." />
+            <marker date="1480003209000" expanded="true" signature="88:449" ph="{...}" />
+            <marker date="1480003209000" expanded="true" signature="125:447" ph="{...}" />
+            <marker date="1480003209000" expanded="true" signature="304:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1480002599000" expanded="true" signature="6:346" ph="..." />
+            <marker date="1480002599000" expanded="true" signature="367:1681" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="394:1679" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="448:835" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="1062:1295" ph="{...}" />
+            <marker date="1480002599000" expanded="true" signature="1513:1673" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/DependencyInjection/Registration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480000503000" expanded="true" signature="105:289" ph="{...}" />
+            <marker date="1480000503000" expanded="true" signature="196:283" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Models/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480003030000" expanded="true" signature="6:92" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Models/Task.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1480003000000" expanded="true" signature="52:228" ph="{...}" />
+            <marker date="1480003000000" expanded="true" signature="76:226" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
