@@ -4,9 +4,9 @@
     "debugType": "portable"
   },
   "dependencies": {
-    "Autofac": "4.2.1",
-    "mongocsharpdriver": "2.4.0-beta1",
-    "NETStandard.Library": "1.6.0"
+      "mongocsharpdriver": "2.4.0-beta1",
+      "NETStandard.Library": "1.6.0",
+      "Autofac.Extensions.DependencyInjection": "4.0.0"
   },
   "frameworks": {
     "netstandard1.6": {

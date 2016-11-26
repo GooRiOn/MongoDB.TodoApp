@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MongoTodo.DataAccess.Models
+namespace MongoTodo.DataAccess.Documents
 {
     public class Task
     {
