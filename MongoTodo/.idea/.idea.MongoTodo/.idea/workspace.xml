@@ -32,13 +32,13 @@
       <file leaf-file-name="Registration.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/DependencyInjection/Registration.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1480179857000" expanded="true" signature="6:107" ph="..." />
-                <marker date="1480179857000" expanded="true" signature="159:467" ph="{...}" />
-                <marker date="1480179857000" expanded="true" signature="198:465" ph="{...}" />
-                <marker date="1480179857000" expanded="true" signature="289:459" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="6:107" ph="..." />
+                <marker date="1480185006000" expanded="true" signature="159:472" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="198:470" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="289:464" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,28 +47,28 @@
       <file leaf-file-name="CardRepository.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/CardRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1480184004000" expanded="true" signature="6:89" ph="..." />
-                <marker date="1480184004000" expanded="true" signature="134:307" ph="{...}" />
-                <marker date="1480184004000" expanded="true" signature="206:305" ph="{...}" />
-                <marker date="1480184004000" expanded="true" signature="279:299" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="6:89" ph="..." />
+                <marker date="1480185006000" expanded="true" signature="134:322" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="216:320" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="294:314" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Repository.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/Repository.cs">
+      <file leaf-file-name="MongoRepository.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/MongoRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+            <state relative-caret-position="345">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
-                <marker date="1480184687000" expanded="true" signature="6:166" ph="..." />
-                <marker date="1480184687000" expanded="true" signature="211:785" ph="{...}" />
-                <marker date="1480184687000" expanded="true" signature="319:783" ph="{...}" />
-                <marker date="1480184687000" expanded="true" signature="606:657" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="6:166" ph="..." />
+                <marker date="1480185006000" expanded="true" signature="211:814" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="324:812" ph="{...}" />
+                <marker date="1480185006000" expanded="true" signature="634:686" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -219,6 +219,7 @@
         <option value="$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/CardRepository.cs" />
         <option value="$PROJECT_DIR$/../../../MongoTodo.DataAccess/TodoContext.cs" />
         <option value="$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/Repository.cs" />
+        <option value="$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/MongoRepository.cs" />
       </list>
     </option>
   </component>
@@ -546,10 +547,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1480179857000" expanded="true" signature="6:107" ph="..." />
-            <marker date="1480179857000" expanded="true" signature="159:467" ph="{...}" />
-            <marker date="1480179857000" expanded="true" signature="198:465" ph="{...}" />
-            <marker date="1480179857000" expanded="true" signature="289:459" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="6:107" ph="..." />
+            <marker date="1480185006000" expanded="true" signature="159:472" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="198:470" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="289:464" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -635,10 +636,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1480179857000" expanded="true" signature="6:107" ph="..." />
-            <marker date="1480179857000" expanded="true" signature="159:467" ph="{...}" />
-            <marker date="1480179857000" expanded="true" signature="198:465" ph="{...}" />
-            <marker date="1480179857000" expanded="true" signature="289:459" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="6:107" ph="..." />
+            <marker date="1480185006000" expanded="true" signature="159:472" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="198:470" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="289:464" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -960,19 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/DependencyInjection/Registration.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <marker date="1480179857000" expanded="true" signature="6:107" ph="..." />
-            <marker date="1480179857000" expanded="true" signature="159:467" ph="{...}" />
-            <marker date="1480179857000" expanded="true" signature="198:465" ph="{...}" />
-            <marker date="1480179857000" expanded="true" signature="289:459" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/TodoContext.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -985,28 +973,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/CardRepository.cs">
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/DependencyInjection/Registration.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1480184004000" expanded="true" signature="6:89" ph="..." />
-            <marker date="1480184004000" expanded="true" signature="134:307" ph="{...}" />
-            <marker date="1480184004000" expanded="true" signature="206:305" ph="{...}" />
-            <marker date="1480184004000" expanded="true" signature="279:299" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="6:107" ph="..." />
+            <marker date="1480185006000" expanded="true" signature="159:472" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="198:470" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="289:464" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/Repository.cs">
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/CardRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1480184687000" expanded="true" signature="6:166" ph="..." />
-            <marker date="1480184687000" expanded="true" signature="211:785" ph="{...}" />
-            <marker date="1480184687000" expanded="true" signature="319:783" ph="{...}" />
-            <marker date="1480184687000" expanded="true" signature="606:657" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="6:89" ph="..." />
+            <marker date="1480185006000" expanded="true" signature="134:322" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="216:320" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="294:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MongoTodo.DataAccess/Repositories/MongoRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1480185006000" expanded="true" signature="6:166" ph="..." />
+            <marker date="1480185006000" expanded="true" signature="211:814" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="324:812" ph="{...}" />
+            <marker date="1480185006000" expanded="true" signature="634:686" ph="{...}" />
           </folding>
         </state>
       </provider>
