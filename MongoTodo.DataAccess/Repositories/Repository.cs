@@ -11,7 +11,7 @@ namespace MongoTodo.DataAccess.Repositories
         protected IMongoCollection<TDocument> Collection => Context.Database.GetCollection<TDocument>($"{DocumentType.Name}s");
         private Type DocumentType { get; } = typeof(TDocument);
 
-        private TodoContext Context { get; }
+        TodoContext Context { get; }
 
         protected Repository(TodoContext context)
         {
