@@ -6,7 +6,7 @@ namespace MongoTodo.DataAccess
     {
         internal IMongoDatabase Database { get; }
 
-        internal TodoContext()
+        public TodoContext()
         {
             var client = new MongoClient("mongodb://localhost");
             Database = client.GetDatabase("todo");

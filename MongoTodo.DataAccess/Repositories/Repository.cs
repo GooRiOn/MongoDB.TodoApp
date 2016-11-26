@@ -1,17 +1,19 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading.Tasks;
 using MongoDB.Driver;
 using MongoTodo.DataAccess.Documents.Interfaces;
 using MongoTodo.DataAccess.Repositories.Interfaces;
 
 namespace MongoTodo.DataAccess.Repositories
 {
-    public abstract class Repository<TDocument> : IRepository<TDocument> where TDocument: IBaseDocument
+    internal abstract class Repository<TDocument> : IRepository<TDocument> where TDocument: IBaseDocument
     {
-        protected IMongoCollection<TDocument> Collection => Context.Database.GetCollection<TDocument>(nameof(TDocument));
+        protected IMongoCollection<TDocument> Collection => Context.Database.GetCollection<TDocument>($"{DocumentType.Name}s");
+        private Type DocumentType { get; } = typeof(TDocument);
 
         private TodoContext Context { get; }
 
-        internal Repository(TodoContext context)
+        protected Repository(TodoContext context)
         {
             Context = context;
         }
