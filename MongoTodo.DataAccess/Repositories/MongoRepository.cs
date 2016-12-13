@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using MongoDB.Driver;
 using MongoTodo.DataAccess.Documents.Interfaces;
@@ -20,5 +21,8 @@ namespace MongoTodo.DataAccess.Repositories
 
         public async Task InsertOneAsync(TDocument document)
             => await Collection.InsertOneAsync(document);
+
+        public async Task<TDocument> GetByIdAsync(int id)
+            => await Collection.Find(d => d.Id == id).FirstOrDefaultAsync();
     }
 }

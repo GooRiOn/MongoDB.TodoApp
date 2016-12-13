@@ -7,6 +7,6 @@ namespace MongoTodo.DataAccess.Repositories.Interfaces
     public interface IRepository<TDocument> where TDocument : IBaseDocument
     {
         Task InsertOneAsync(TDocument document);
-
+        Task<TDocument> GetByIdAsync(int id);
     }
 }
