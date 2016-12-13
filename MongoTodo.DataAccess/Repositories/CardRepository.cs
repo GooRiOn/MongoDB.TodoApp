@@ -3,9 +3,9 @@ using MongoTodo.DataAccess.Repositories.Interfaces;
 
 namespace MongoTodo.DataAccess.Repositories
 {
-    internal class CardMongoRepository : MongoRepository<Card>, ICardRepository
+    internal class CardRepository : MongoRepository<Card>, ICardRepository
     {
-        public CardMongoRepository(TodoContext context) : base(context)
+        public CardRepository(TodoContext context) : base(context)
         {
         }
     }

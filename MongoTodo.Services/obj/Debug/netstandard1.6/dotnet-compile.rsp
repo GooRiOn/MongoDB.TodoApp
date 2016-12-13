@@ -77,6 +77,9 @@
 --reference:/Users/Darek/.nuget/packages/System.Xml.ReaderWriter/4.0.11/ref/netstandard1.3/System.Xml.ReaderWriter.dll
 --reference:/Users/Darek/.nuget/packages/System.Xml.XDocument/4.0.11/ref/netstandard1.3/System.Xml.XDocument.dll
 --reference:/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.DataAccess/bin/Debug/netstandard1.6/MongoTodo.DataAccess.dll
-/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.Services/Class1.cs
 /Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.Services/DependencyInjection/Registration.cs
 /Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.Services/Properties/AssemblyInfo.cs
+/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.Services/Services/BaseService.cs
+/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.Services/Services/CardService.cs
+/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.Services/Services/Interfaces/IBaseService.cs
+/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.Services/Services/Interfaces/ICardService.cs

@@ -1,5 +1,6 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
+using System.Collections.Generic;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 using MongoDB.Driver;
 using MongoTodo.DataAccess.Documents.Interfaces;
@@ -24,5 +25,8 @@ namespace MongoTodo.DataAccess.Repositories
 
         public async Task<TDocument> GetByIdAsync(int id)
             => await Collection.Find(d => d.Id == id).FirstOrDefaultAsync();
+
+        public async Task<IEnumerable<TDocument>> GetFilteredAsync(Expression<Func<TDocument, bool>> predicate)
+            => await Collection.Find(predicate).ToListAsync();
     }
 }

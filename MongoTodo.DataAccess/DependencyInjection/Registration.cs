@@ -9,7 +9,7 @@ namespace MongoTodo.DataAccess.DependencyInjection
         public static void RegisterDataAcces(this ContainerBuilder containerBuilder)
         {
             containerBuilder.RegisterType<TodoContext>().AsSelf();
-            containerBuilder.RegisterType<CardMongoRepository>().As<ICardRepository>();
+            containerBuilder.RegisterType<CardRepository>().As<ICardRepository>();
         }
     }
 }

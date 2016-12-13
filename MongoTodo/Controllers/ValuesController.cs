@@ -1,15 +1,31 @@
+using System;
+using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
+using MongoTodo.DataAccess.Documents;
 using MongoTodo.DataAccess.Repositories.Interfaces;
+using MongoTodo.Services.Services.Interfaces;
+using Task = System.Threading.Tasks.Task;
 
 namespace MongoTodo.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+        private readonly ICardService _cardService;
+
+        public ValuesController(ICardService cardService)
+        {
+            _cardService = cardService;
+        }
+
         // GET api/values
         [HttpGet]
-        public string Get()
-            => "Test";
+        public async Task Get()
+            => await _cardService.InsertOneAsync(new Card
+            {
+                CreatorFullName = "test",
+                CreatedDate = DateTime.Now,
+            });
 
         // GET api/values/5
         [HttpGet("{id}")]

@@ -81,6 +81,6 @@
 "/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.DataAccess/Documents/Interfaces/IBaseDocument.cs"
 "/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.DataAccess/Properties/AssemblyInfo.cs"
 "/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.DataAccess/Repositories/CardRepository.cs"
-"/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.DataAccess/Repositories/Repository.cs"
+"/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.DataAccess/Repositories/MongoRepository.cs"
 "/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.DataAccess/Repositories/Interfaces/ICardRepository.cs"
 "/Users/Darek/Repositories/MongoDB.TodoApp/MongoTodo.DataAccess/Repositories/Interfaces/IRepository.cs"
